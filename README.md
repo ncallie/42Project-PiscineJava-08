@@ -30,8 +30,6 @@ There are several ways to configure beans:
 
 XML configuration allows to change application's behavior without a reassembly. In turn, Java configuration makes code more developer-friendly.
 
-![Sakura](misc/images/sakura.png)
-
 # Chapter II
 ### General Rules
 - Use this page as the only reference. Do not listen to any rumors and speculations about how to prepare your solution.
